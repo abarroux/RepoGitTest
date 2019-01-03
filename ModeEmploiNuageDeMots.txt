@@ -1,7 +1,7 @@
 Pour créer un nuage de mots, il faut un fichier texte listant les mots.
 Puis se connecter sur le site https://www.nuagesdemots.fr/
 
-Nuagesdemots.fr est un générateur de nuage de mots clés et de nuage de tags gratuit qui fonctionne sur votre PC, tablette et smartphone. Unique à ce générateur de nuage de mots clés, sont les options nombreuses et vous pouvez commencer immédiatement. Collez un texte, téléchargez un document vers le serveur ou ouvrez un URL pour créer un nuage de mots clés et modifiez jusqu'à ce que vous êtes satisfait. Personnalisez votre nuage de mots clés avec des formes, des thèmes, des couleurs et des caractères.
+Nuagesdemots.fr est un générateur de nuage de mots qui fonctionne sur PC, tablette et smartphone. Collez un texte, téléchargez un document vers le serveur ou ouvrez un URL pour créer un nuage de mots et modifiez jusqu'à ce que vous soyez satisfait. Personnalisez votre nuage de mots avec des formes, des thèmes, des couleurs et des caractères.
 
 On peut jouer sur les couleurs, les formes, la police de caractères.
 
