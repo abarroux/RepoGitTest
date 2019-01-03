@@ -1,4 +1,4 @@
-Pour créer un nuage de mots, il faut un fichier texte listant les mots.
+Pour créer un nuage de mots, il suffit de créer un fichier texte listant les mots.
 Puis se connecter sur le site https://www.nuagesdemots.fr/
 
 Nuagesdemots.fr est un générateur de nuage de mots qui fonctionne sur PC, tablette et smartphone. Collez un texte, téléchargez un document vers le serveur ou ouvrez un URL pour créer un nuage de mots et modifiez jusqu'à ce que vous soyez satisfait. Personnalisez votre nuage de mots avec des formes, des thèmes, des couleurs et des caractères.
